@@ -18,8 +18,8 @@ from typing import Optional
 import matplotlib
 import matplotlib.pyplot as plt
 
-from arviz.rcparams import rc_context
-from arviz import rcParams
+#from arviz.rcparams import rc_context
+#from arviz import rcParams
 
 matplotlib.use("Agg")
 
